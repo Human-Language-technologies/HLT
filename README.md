@@ -7,4 +7,6 @@ To perform this job, we used a model composed of three layers.
 The first layer is a BERT transformer while the third layer is a Neural Network. 
 The second layer has been tested with three possibilities: GRU, CNN and GRU + CNN. We will compare the models pointing out the best one, and trying to understand why it obtained the best values.
 
-The code can be found in the code folder
+
+The project idea comes from the kaggle competition ["Twitter Sentiment Analysis"](https://www.kaggle.com/c/tweet-sentiment-extraction/overview).
+The code can be found in the code folder.
